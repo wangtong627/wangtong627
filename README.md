@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello i am Tong Wang 👋
 
 <!--
 **wangtong627/wangtong627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently pursuing the Ph.D degree at the South East University.
+🔭 My current research interests include Representation learning, GNNs, Deep clustering and Point cloud.
