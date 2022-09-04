@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 I’m currently pursuing the Ph.D degree at the South East University.
+🌱 I’m currently pursuing the Ph.D degree at the SouthEast University.
 
 🔭 My current research interests include Representation learning, GNNs, Deep clustering and Point cloud.
