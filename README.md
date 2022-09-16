@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 🔭 My current research interests include Representation Learning, GNNs and Deep Clustering. 
 
-I also focus on Image Segmentation and Lable Noise Representation.
+✨ I also focus on Image Segmentation and Lable Noise Representation now.
