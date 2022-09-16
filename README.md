@@ -1,4 +1,4 @@
-## Hello i’m Tong Wang 👋
+## Hello i’m Tong Wang.
 
 <!--
 **wangtong627/wangtong627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
