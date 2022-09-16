@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently pursuing the Ph.D degree at the SouthEast University.
 
-🔭 My current research interests include Representation learning, GNNs, Deep clustering and Point cloud.
+🔭 My current research interests include Representation Learning, GNNs and Deep Clustering. 
+
+I also focus on Image Segmentation and Lable Noise Representation.
