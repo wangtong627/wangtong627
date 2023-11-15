@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### 😄 Hello, I'm [Tong Wang](https://github.com/wangtong627/)
 - 🌱 I'm currently pursuing the Ph.D degree at the Southeast University.
-- 🔭 Representation Learning, Camouflaged Object Detection (COD) and Medical Image Analysis, etc.
+- 🔭 Computer Vision, Graph Learning, Camouflaged Object Detection and Medical Image Analysis, etc.
 
 
 <p align="center">
