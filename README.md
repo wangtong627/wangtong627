@@ -1,5 +1,3 @@
-## Hello, I’m Tong Wang.
-
 <!--
 **wangtong627/wangtong627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 😄 Hello, I'm [Tong Wang](https://github.com/wangtong627/)
+- 🌱 I'm currently pursuing the Ph.D degree at the Southeast University.
+- 🔭 Representation Learning, Camouflaged Object Detection (COD) and Medical Image Analysis, etc.
 
 
-🔭 My current research interests include Representation Learning, Salient Object Detectionm (SOD) and Camouflaged Object Detection (COD). 
+<p align="center">
+<a href="https://github.com/wangtong627">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wangtong627&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wangtong627&layout=compact&langs_count=8&theme=vue-dark"/>
+</a>
+</p>
+
+### 📫 Connect with Me 
+
+<p align="center">
+  <a href="mailto:tongwangnj@qq.com">Email</a>
+</p>
