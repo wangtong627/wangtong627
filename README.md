@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 😄 Hello, I'm [Tong Wang](https://github.com/wangtong627/)
-- 🌱 I'm currently pursuing the Ph.D degree at the Southeast University.
+- 🌱 I'm currently pursuing the Ph.D degree at Southeast University (SEU).
 - 🔭 Computer Vision, Pattern Recognition, Camouflaged Object Detection and Medical Image Analysis, etc.
 
 
