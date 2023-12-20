@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 😄 Hello, I'm [Tong Wang](https://github.com/wangtong627/)
+### 😄 Hello, I'm [Tong Wang 王通](https://github.com/wangtong627/)
 - 🌱 I'm currently pursuing the Ph.D degree at Southeast University (SEU).
 - 🔭 Computer Vision, Pattern Recognition, Camouflaged Object Detection and Medical Image Analysis, etc.
 
