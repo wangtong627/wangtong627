@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### 😄 Hello, I'm [TongWang 王通](https://github.com/wangtong627/)
 - 🌱 I'm currently pursuing the Ph.D degree at Southeast University (SEU).
-- 🔭 Computer Vision, Pattern Recognition, Medical Image Analysis and Vision-Language Models, etc.
+- 🔭 My research interests include Computer Vision, Medical Image Analysis, Vision-Language Models, etc.
 
 
 <p align="center">
