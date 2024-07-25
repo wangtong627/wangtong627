@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 😄 Hello, I'm [TongWang 王通](https://github.com/wangtong627/)
-- 🌱 I'm currently pursuing the Ph.D degree at Southeast University (SEU).
-- 🔭 My research interests include Computer Vision, Medical Image Analysis, Vision-Language Models, etc.
 
+Currently, I am pursuing my Ph.D. degree at the Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University), Ministry of Education, under the guidance of Prof. Guanyu Yang.  
+I will be joining the Intelligent Visual Analytics Lab (IVAL) at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) as a visiting Ph.D. student, sponsored by the CSC funding, under the guidance of Prof. Fahad Khan and Dr. Nian Liu.  
+My research interests include Computer Vision, Medical Image Analysis and Vision-Language Models.  
 
 <p align="center">
 <a href="https://github.com/wangtong627">
