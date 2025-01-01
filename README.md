@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### 😄 Hello, I'm [TongWang 王通](https://wangtong627.github.io/). 
 
 - Currently, I am pursuing my Ph.D. degree at the Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University), Ministry of Education, under the guidance of [Prof. Guanyu Yang](https://cs.seu.edu.cn/gyyang/main.htm).  
-- I will be joining the Intelligent Visual Analytics Lab (IVAL) at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) as a visiting Ph.D. student, sponsored by the CSC funding, under the guidance of [Prof. Fahad Khan](https://sites.google.com/view/fahadkhans) and [Dr. Nian Liu](https://sites.google.com/site/liunian228/).  
+- I will be joining the Intelligent Visual Analytics Lab (IVAL) at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) as a visiting Ph.D. student, under the guidance of [Prof. Fahad Khan](https://sites.google.com/view/fahadkhans) and [Dr. Nian Liu](https://sites.google.com/site/liunian228/).  
 - My research interests include Computer Vision, Medical Image Analysis and Vision-Language Models.
 - I have a deep passion for unraveling the mysteries of intelligence.
 
