@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - I join the Intelligent Visual Analytics Lab (IVAL) at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) as a visiting Ph.D. student, under the guidance of [Prof. Fahad Khan](https://sites.google.com/view/fahadkhans) and Dr. Nian Liu. 
 - Besides, I am pursuing my Ph.D. degree at the Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University), Ministry of Education, under the guidance of Prof. Guanyu Yang.  
-- My research interests include Computer Vision, Medical Image Analysis and Multimodal Model.
+- My research interests include Computer Vision, Medical Image Analysis and Multimodal Models.
 - I have a deep passion for unraveling the mysteries of intelligence.
 
 <p align="center">
