@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 ### 😄 Hello, I'm [Tong Wang](https://wangtong627.github.io/). 
 
-- From 2024 to now, I join the Computer Vision Department at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) as a visiting student, under the guidance of [Prof. Fahad Khan](https://sites.google.com/view/fahadkhans), [Prof. Nian Liu](https://sites.google.com/site/liunian228/) and [Prof. Yutong Xie](https://ytongxie.github.io/). 
-- From 2022 to now, I am pursuing my Ph.D. degree at the Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University), Ministry of Education, under the guidance of [Prof. Guanyu Yang](https://cs.seu.edu.cn/gyyang/main.htm).  
+- From 2024.12 ~ now, I join the Computer Vision Department at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) as a visiting student, under the guidance of [Prof. Fahad Khan](https://sites.google.com/view/fahadkhans), [Prof. Nian Liu](https://sites.google.com/site/liunian228/) and [Prof. Yutong Xie](https://ytongxie.github.io/). 
+- From 2022.09 ~ now, I am pursuing my Ph.D. degree at the Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University), Ministry of Education, under the guidance of [Prof. Guanyu Yang](https://cs.seu.edu.cn/gyyang/main.htm).  
 - My research interests include Computer Vision, Medical Image Analysis and Multimodal Models.
 - I have a deep passion for unraveling the mysteries of intelligence.
 
