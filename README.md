@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/wangtong627">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wangtong627&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wangtong627&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wangtong627&layout=compact&langs_count=8&theme=vue-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangtong627&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
 </p>
 
